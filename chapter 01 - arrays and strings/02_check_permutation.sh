@@ -8,8 +8,8 @@ isPermutation() {
     [[ "${#str1}" != "${#str2}" ]] && return 1
 
 	# sort chars
-    sortedStr1=$(echo "$str1" | sort)
-    sortedStr2=$(echo "$str2" | sort)
+    sortedStr1=$(echo "$str1" | sort | tr '[:upper:]' '[:lower:]')
+    sortedStr2=$(echo "$str2" | sort | tr '[:upper:]' '[:lower:]')
 	
 	# check if permutation
     [[ "$sortedStr1" == "$sortedStr2" ]] && return 0 || return 1
