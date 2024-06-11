@@ -1,4 +1,4 @@
-# Cracking the Coding Interview, 6th Edition: Vim Script Solutions
+# Cracking the Coding Interview, 6th Edition: Bash Script Solutions
 
 This repository contains **Bash Script solutions** for "[Cracking the Coding Interview, 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)" by Gayle Laakmann McDowell
 
