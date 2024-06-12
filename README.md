@@ -6,8 +6,8 @@ This repository contains **Bash Script solutions** for "[Cracking the Coding Int
 
 | Chapter Number | Chapter title | Done | Total |
 | - | - |-|-|
-|01	|Array and String|	4|	9|
-|02	|Linked Lists|	0	|8|
+|01	|Arrays and Strings|	7|	9|
+|02	|Linked Lists|	1	|8|
 |03	|Stacks and Queues|	0	|6|
 |04	|Trees and Graphs|	0	|12|
 |05	|Bit Manipulation|	0	|8|
