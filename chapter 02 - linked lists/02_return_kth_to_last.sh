@@ -2,8 +2,8 @@
 
 kthToLast() {
 	k=$1
-	
-	remained=$(( ${#list[@]} - $k ))
+	len=${#list[@]}
+	remained=$(( len - k ))
 	echo "${list[@]:$k:$remained}"
 }
 
